@@ -220,10 +220,12 @@ next_step: seguir creando proyectos útiles
 <sub>Desde Lima, Perú · @HeiserRojas · construyendo y aprendiendo</sub>
 <br>
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="backend-terminal.svg">
-  <source media="(prefers-color-scheme: light)" srcset="code-orbit.svg">
-  <img src="spiderman-blue.svg" width="960" alt="Heiser Jeferson Rojas Burgos — Full Stack Developer">
+  <source media="(prefers-color-scheme: dark)" srcset="spiderman-blue.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  
 </picture>
 
 ## 📈 Estadísticas de GitHub
@@ -244,16 +246,4 @@ next_step: seguir creando proyectos útiles
     </a>
   
 
-<p align="center">
-  <a href="https://github.com/Jefersonrojas">
-    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&card_width=100&locale=en&show_icons=true&theme=dark&rank_icon=github"/>
-    <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonrojas&theme=dark&layout=compact&hide=c%2B%2B,jupyter%20notebook"/>
-  </a>
-</p>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jefersonrojas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
