@@ -39,7 +39,7 @@ He trabajado en control de asistencia con geolocalización y cámara, traducció
 
 ## `$ cat tech-stack.yaml`
 
-Tecnologías que he utilizado en trabajo, proyectos o aprendizaje; no todas representan el mismo nivel de dominio.
+Tecnologías que he utilizado en trabajo, proyectos o aprendizaje.
 <table align="center" width="100%">
   <tr>
     <th colspan="2" align="left">
