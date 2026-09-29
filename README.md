@@ -220,6 +220,12 @@ next_step: seguir creando proyectos útiles
 <sub>Desde Lima, Perú · @HeiserRojas · construyendo y aprendiendo</sub>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="backend-terminal.svg">
+  <source media="(prefers-color-scheme: light)" srcset="code-orbit.svg">
+  <img src="spiderman-blue.svg" width="960" alt="Heiser Jeferson Rojas Burgos — Full Stack Developer">
+</picture>
+
 ## 📈 Estadísticas de GitHub
 
 <div>
