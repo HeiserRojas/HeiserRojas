@@ -10,6 +10,7 @@
 
 <div align="center">
 
+<img src="full-stack.svg" width="960" alt="Heiser Rojas — Desarrollador Full Stack">
 <a href="https://github.com/HeiserRojas">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
@@ -18,7 +19,7 @@
 </picture>
 </a>
 
-<img src="full-stack.svg" width="960" alt="Heiser Rojas — Desarrollador Full Stack">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=React+%7C+Node.js+%7C+Python;Desarrollo+web+%C2%B7+APIs+%C2%B7+Automatizaci%C3%B3n;Aprendiendo+Cloud+y+DevOps;Desde+Lima%2C+Per%C3%BA" alt="Desarrollo web, APIs y automatización">
 
