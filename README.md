@@ -220,24 +220,13 @@ next_step: seguir creando proyectos útiles
 <sub>Desde Lima, Perú · @HeiserRojas · construyendo y aprendiendo</sub>
 <br>
 
+<img src="spiderman-blue.svg" width="960" alt="">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="spiderman-blue.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  
-</picture>
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div>
   <p align="center">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jefersonrojas&theme=redical">
-    </a>
-    <a href="https://github-readme-stats.vercel.app">
-      <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&count_private=true&theme=neon&show_icons=true&hide_border=false">
-    </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
       <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jefersonrojas&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
     </a>
@@ -247,3 +236,8 @@ next_step: seguir creando proyectos útiles
   
 
 
+<img src="backend-terminal.svg" width="960" alt="">
+<img src="code-orbit.svg" width="960" alt="">
+<img src="music-lofi.svg" width="960" alt="">
+<img src="retro-game.svg" width="960" alt="">
+<img src="divider-pulse.svg" width="960" alt="">
